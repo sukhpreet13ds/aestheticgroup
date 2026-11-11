@@ -1,0 +1,135 @@
+Same Navabr for all pages.
+
+About us:
+Show hero section a banner images less by height and width full.
+over on it show About us and breadcrumbs of home and About us.
+and then show About use sections of:
+
+Meet Our Founder - Mr. Sushant Muttreja
+With over 25 years of experience in the real estate industry, Sushant Muttreja has been instrumental in transforming Aesthetics Group into a trusted name in property consultation.
+Sushant Muttreja began his journey in real estate in 1998 with a vision to provide transparent, reliable, and customer-centric property services. His deep understanding of the market dynamics and commitment to ethical business practices has helped thousands of clients find their dream properties.
+
+Under his leadership, Aesthetics Group has successfully completed over 5000 transactions across residential, commercial, and industrial segments, establishing itself as a leading real estate consultancy in Greater Noida, Noida Extension, and Yamuna Expressway regions.
+
+[show these in check points]
+
+ Certified Real Estate Professional
+ Award-Winning Entrepreneur
+ Community Development Advocate
+
+next section
+ Our Vision
+To simplify real estate decisions by offering clear guidance, transparent processes, and reliable support for every property seeker.
+
+Our Mission
+To connect clients with the right properties through expert advice, smooth transactions, and a commitment to long-term value.
+
+Our Core Values
+We value integrity, excellence, and customer focus, ensuring honest service, high standards, and solutions tailored to client needs.
+
+next section:
+Our Journey
+Discover the milestones that shaped our success story
+
+show left side milestone of years:
+1998
+2005
+2012
+2018
+2023
+beutiful and show like left side one year and next year below of it right side and nextr year below of it left side and so on. and in  mid show a line.
+and click on it right side should be updated with:
+like Company Founded - 1998
+
+some description  and below of it show these boxes
+1
+Office
+5
+Team Members
+100+
+Properties Listed
+and when click on next year
+show first 1000+ clients -2005 
+
+some description  and below of it show these boxes
+
+1000+
+Happy Clients
+15
+Team Members
+500+
+Transactions
+
+then click on next year show:
+Expansion to New Regions - 2012
+description
+and these boxes
+
+3
+Regions
+2500+
+Properties
+25
+Team Members
+
+
+when click on next year:
+Digital Transformation - 2018
+
+description:
+24/7
+Online Support
+100%
+Digital Process
+40
+Team Members
+
+when click on next year:
+
+5000+ Clients Milestone
+2023
+
+description
+and these bpxes
+5000+
+Happy Clients
+50+
+Team Members
+10000+
+Properties
+
+And same CTA of hero section.
+and Footer.
+
+and those boxes shoudld be 2x2 in mobile.
+
+
+in the Projects Page:
+show the the same about us hero section with title of Projects.
+and show same home page sections of:
+HANDPICKED EXCLUSIVES
+and 
+FLAGSHIP DEVELOPMENTS
+sections.
+and also show Areas we server in projects page same home page section.
+and CTA section same.
+and footer.
+
+And in Buy Properties page
+Show same hero section of about and below of it show filter of price range, All types (drop dowwn with values: Residential, Commercial, Industrial ),  All states (Indian), All Status (drop down of values: Available, Coming Soon) and Apply filter and Clear Filter.
+BElow of i show Price of drop down values:
+High to Low,
+Low to high.
+
+and below of them show the cards not too much but few and in mobile show 2x2.
+
+and then show CTA and Footer.
+
+And in Contact us:
+Show same About us hero section and below of it show company name,
+Address, emails, numbers, whatsapp button, and right side show Map.
+below of it show the cta and footer.
+
+
+
+
